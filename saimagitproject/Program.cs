@@ -12,6 +12,7 @@ namespace saimagitproject
         {
             Console.WriteLine("this is Saima");
             Console.WriteLine("this is amir rashid");
+            Console.WriteLine("it is working");
             Console.ReadLine();
         }
     }
