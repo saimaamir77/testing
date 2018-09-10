@@ -11,7 +11,7 @@ namespace saimagitproject
         static void Main(string[] args)
         {
             Console.WriteLine("this is Saima");
-            Console.WriteLine("this is amir");
+            Console.WriteLine("this is amir rashid");
             Console.ReadLine();
         }
     }
